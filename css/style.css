@@ -1,0 +1,116 @@
+body{
+font-family: "Trebuchet MS", Helvetica, sans-serif;		
+}
+#main{
+	background-color: rgb(238,238,238);
+	width:1325px;
+	height:1200px;	
+	padding: 20px 0px 10px 0px;
+}
+
+#title{
+	
+}
+
+#words{
+	padding: 0px 100px 0px 150px;
+	
+}
+
+#words2{
+	padding: 0px 0px 0px 550px;
+}
+
+#pmname{
+	padding-left:480px;
+}
+
+header{
+	background-color: rgb(238,238,238);
+	text-align:center;
+	padding: 20px 0px 10px 0px;
+	width:1325px;
+	height:120px;
+
+}
+
+
+h1{
+	
+}
+
+h3{
+	padding: 0px 0px 0px 365px;
+
+}
+
+p{
+
+	
+}
+
+img{
+	background-color: white;
+	padding: 0px 60px 10px 130px;
+	
+}
+
+#tribute-info{
+	
+}
+
+
+#img-div{
+	background-color: white;
+}
+
+figcaption{
+	background-color: white;
+	padding: 0px 0px 10px 155px;
+	
+}
+
+ul{
+	padding: 0px 0px 0px 375px;
+
+}
+li{
+	margin:10px;
+	padding-right:450px;
+}
+
+footer{
+		padding: 0px 0px 30px 300px;
+		margin-bottom:30px;
+		font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
